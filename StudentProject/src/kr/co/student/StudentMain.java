@@ -80,6 +80,7 @@ public class StudentMain {
 			}
 			System.out.println(st[i].toString());
 		}
+		System.out.println("The end");
 	}
 
 }
